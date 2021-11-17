@@ -43,6 +43,6 @@
 
 <p align="center">
 <a href="https://siltech.moscow"><img src="https://img.shields.io/badge/-siltech.moscow-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="mailto:nikita.s.mozhaev@gmail.com"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/nikita__mozhaev/"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="mailto:nikita.s.mozhaev@gmail.com"><img src="https://img.shields.io/badge/-nikita.s.mozhaev@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.instagram.com/nikita__mozhaev/"><img src="https://img.shields.io/badge/-@nikita__mozhaev-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
