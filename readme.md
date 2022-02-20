@@ -1,4 +1,4 @@
-![Aditya Vikram Singh Banner](https://srv2.imgonline.com.ua/result_img/imgonline-com-ua-Resize-dWJJl0L8EL1TkF.png)
+![NIKITA MOZHAEV](https://nikita-mozhaev.space/bg.png)
 
 
 <!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
